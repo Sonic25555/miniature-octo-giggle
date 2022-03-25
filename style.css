@@ -1,0 +1,18 @@
+body{
+	background-color: black;
+}
+.copy_right_footer{
+    bottom: 0;
+    color: grey;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    background-color: aliceblue;
+    text-align: center;
+}
+canvas{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 90px;
+    box-shadow: 5px 5px 5px rgb(211, 255, 255);
+}
